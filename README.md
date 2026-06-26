@@ -15,7 +15,7 @@
 
 ## About
 
-Master's student in **Distributed Systems & Artificial Intelligence** at ENSET Mohammedia, Université Hassan II de Casablanca. My work sits at the intersection of applied ML, agentic AI, and backend engineering  I'm interested in systems that are both smart and robust.
+Master's student in **Distributed Systems & Artificial Intelligence** at ENSET Mohammedia, Université Hassan II de Casablanca. My work sits at the intersection of applied ML, agentic AI, and backend engineering.  I'm interested in systems that are both smart and robust.
 
 Currently building with **LangGraph**, **RAG pipelines**, and **LLM-based agents**, while deepening my foundations in statistical learning and software architecture.
 
@@ -55,7 +55,25 @@ Currently building with **LangGraph**, **RAG pipelines**, and **LLM-based agents
 - **RAG** systems and vector search
 - **LLM** fine-tuning and prompt engineering
 
+---
+  
+## Certifications
+
+- NDG Linux Unhatched
+- Cisco Networking
+- Blockchain Basics
+- English cert
+- 
 
 ---
 
+## GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ImaneMekkaoui1&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImaneMekkaoui1&layout=compact&theme=tokyonight"/>
+
+</p>
 

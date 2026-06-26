@@ -4,10 +4,10 @@
 
 **Distributed Systems & AI · ENSET Mohammedia**
 
-*Building intelligent systems — from multi-agent pipelines to full-stack applications*
+*Building intelligent systems from multi-agent pipelines to full-stack applications*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imane-mekkaoui-3631261b2)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:imane.mekkaoui1-etu@etu.univh2c.ma)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mekkaouiimane722@gmail.com)
 
 </div>
 
@@ -15,7 +15,7 @@
 
 ## About
 
-Master's student in **Distributed Systems & Artificial Intelligence** at ENSET Mohammedia, Université Hassan II de Casablanca. My work sits at the intersection of applied ML, agentic AI, and backend engineering — I'm interested in systems that are both smart and robust.
+Master's student in **Distributed Systems & Artificial Intelligence** at ENSET Mohammedia, Université Hassan II de Casablanca. My work sits at the intersection of applied ML, agentic AI, and backend engineering  I'm interested in systems that are both smart and robust.
 
 Currently building with **LangGraph**, **RAG pipelines**, and **LLM-based agents**, while deepening my foundations in statistical learning and software architecture.
 
@@ -25,9 +25,9 @@ Currently building with **LangGraph**, **RAG pipelines**, and **LLM-based agents
 
 | Project | Description | Stack |
 |---|---|---|
-| [🌦️ Weather-EnviroTrack](https://github.com/ImaneMekkaoui1/Weather-EnviroTrack) | Environmental monitoring dashboard with weather data integration | — |
+| [🌦️ Weather-EnviroTrack](https://github.com/ImaneMekkaoui1/Weather-EnviroTrack) | Environmental monitoring dashboard with weather data integration | SpringBoot . Angular |
 | [🤖 Agent-avec-LangGraph](https://github.com/ImaneMekkaoui1/Agent-avec-LangGraph) | Agentic workflow built with LangGraph for orchestrated task execution | Python · LangGraph |
-| [🧠 SmartTaskManagerAI](https://github.com/ImaneMekkaoui1/SmartTaskManagerAI) | AI-powered task manager with intelligent prioritization | — |
+| [🧠 SmartTaskManagerAI](https://github.com/ImaneMekkaoui1/SmartTaskManagerAI) | AI-powered task manager with intelligent prioritization | javaFx . Java |
 | [🔍 Classification Robuste — Fraude](https://github.com/ImaneMekkaoui1/Classification_Robuste_Fraude) | Fraud detection on imbalanced data with XGBoost, calibration & SHAP/LIME interpretability | Python · Scikit-learn · XGBoost |
 | [🗺️ Planification sur Grille — A\* & Chaînes de Markov](https://github.com/ImaneMekkaoui1/Planification-Robuste-sur-Grille-A-et-Cha-nes-de-Markov-) | Robust grid planning using A\* search and Markov Decision Processes | Python |
 

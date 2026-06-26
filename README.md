@@ -58,6 +58,4 @@ Currently building with **LangGraph**, **RAG pipelines**, and **LLM-based agents
 
 ---
 
-<div align="center">
-<sub>Open to research collaborations and internship opportunities in AI/ML engineering.</sub>
-</div>
+

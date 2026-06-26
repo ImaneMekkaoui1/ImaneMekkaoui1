@@ -67,5 +67,6 @@ Currently building with **LangGraph**, **RAG pipelines**, and **LLM-based agents
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ImaneMekkaoui1&theme=tokyo-night"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,spring,angular,react,docker,git,linux,mysql,php,laravel"/>
+</p>

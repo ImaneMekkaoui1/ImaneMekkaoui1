@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Imane Mekkaoui
 
-<!--
-**ImaneMekkaoui1/ImaneMekkaoui1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's Student in Distributed Systems & Artificial Intelligence at ENSET Mohammedia.
 
-Here are some ideas to get you started:
+## 💻 Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Spring Boot
+- Angular
+- Python
+- PHP
+- Laravel
+- MySQL
+- Docker
+- Git
+- Linux
+
+## 🤖 Currently Learning
+
+- Machine Learning
+- LangGraph
+- RAG
+- AI Agents
+- LLMs
+
+## 🚀 Projects
+
+- 🌦️ Weather & EnviroTrack
+- 🤖 Smart Career Advisor
+- 🐾 My Pet
+
+## 📫 Contact
+
+📧 imane.mekkaoui1-etu@etu.univh2c.ma
+
+💼 LinkedIn: www.linkedin.com/in/imane-mekkaoui-3631261b2
